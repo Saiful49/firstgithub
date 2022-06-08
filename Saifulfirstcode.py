@@ -1,7 +1,7 @@
 import streamlit as st
 
-import numpy as p
-import pandas as pdn
+import numpy as np
+import pandas as pd
 
 st.header("My first Streamlit App")
 st.title("This is a title")
