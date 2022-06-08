@@ -40,7 +40,7 @@ else:
 
     for i in range(100):
    
-    m    latest_iteration.text(f'Iteration {i+1}')
+        latest_iteration.text(f'Iteration {i+1}')
         bar.progress(i + 1)
         tie.sleep(0.1)
 
